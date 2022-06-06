@@ -1,0 +1,19 @@
+body {
+  background-color: #8dfeb1;
+}
+main {
+  text-align: end;
+}
+
+#clock {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 40vh;
+  font-size: 100px;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #343a36;
+    color: white;
+  }
+}
